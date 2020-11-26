@@ -7,3 +7,5 @@ document.querySelector("li a").style.color = "orange";
 
 // classList => property and add, remove, toggle => methods
 document.querySelector("button").classList.add("huge");
+document.querySelector("button").classList.remove("huge");
+document.querySelector("button").classList.toggle("huge");
