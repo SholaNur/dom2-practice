@@ -9,3 +9,5 @@ document.querySelector("li a").style.color = "orange";
 document.querySelector("button").classList.add("huge");
 document.querySelector("button").classList.remove("huge");
 document.querySelector("button").classList.toggle("huge");
+document.querySelector("a").getAttribute("href");
+document.querySelector("a").setAttribute("href", "https://translate.google.com");
